@@ -1,0 +1,6 @@
+COLOMBANI Mael  GRIGUER Nathan
+Bonsoir monsieur, 
+Voici ci-joint notre projet parser. Nous avons essayé d'avancer sur le graphviz en essayant de parser les 2 premiers éléments pour commencer mais nous n'avons pas eu le temps de continuer. Nous avons donc implémenté tous le code de affichage_dot dans parser c'est pour cela que j'ai un fichier parser_avec_dot.py et mon parser fonctionnel avec les parenthèses : parser.py
+Cordialement
+GRIGUER Nathan
+COLOMBANI Mael
